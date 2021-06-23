@@ -8,7 +8,7 @@
 本来是放置整个网盘链接的，但是很容易就被百度网盘和谐了。
 所以有需要的小伙伴，有两种方式：  
 ①、关注我的个人公众号，发送【书名】获取相应的网盘下载地址。  
-![](https://github.com/YSOcean/ITBook/blob/main/image/v-itcoke-2.jpg)
+![](https://github.com/YSOcean/ITBook/blob/main/image/v-itcoke-3.jpg)
 
 ②、加我个人微信【ItCoke】，私我书名，我看到会回复的。  
 
